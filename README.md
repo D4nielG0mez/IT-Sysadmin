@@ -51,6 +51,36 @@ ZABBIX
 
 OpenNMS
 
+### Tipos de redes
 
+### PAN 
+![image](https://github.com/user-attachments/assets/be712989-5950-4974-8d94-0ed30dc69688)
+
+Bluetooth: Permite la transmisión de datos a corta distancia
+
+![image](https://github.com/user-attachments/assets/ea3d506b-59c1-46a5-9ac5-7dc1762509ed)
+
+
+NFC: Se usa para transacciones rápidas, como pagos móviles, al tocar dos dispositivos.
+
+![image](https://github.com/user-attachments/assets/ff7b1df1-36ec-4280-a4eb-e04b3fcf114f)
+
+### MAN
+
+DQDB (Distributed queue dual bus)
+
+![image](https://github.com/user-attachments/assets/036ef015-888c-4d6f-8341-71d7cfa6a129)
+
+SMDS (Switched multimegabit data service)
+
+### WAN
+
+MPLS (Multiprotocol label switching)
+
+![image](https://github.com/user-attachments/assets/35bb2139-53a0-4ecf-b3e8-2a5030d1eade)
+
+VPN (Virtual Private Network)
+
+![image](https://github.com/user-attachments/assets/be803dd3-ef9a-43cc-9d4b-06214a77895c)
 
 ## Firewall
