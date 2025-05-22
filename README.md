@@ -25,6 +25,10 @@ La realidad es que me dedico al Hacking ético, por lo que, practicaré Linux ha
 |docker stop [NAMES or IDs] |Detiene uno o más contenedores en ejecución.|
 |docker rm [NAMES or IDs] |Solo puedes eliminar contenedores que estén detenidos (para eliminar uno en ejecución, primero hay que detenerlo).|
 |nmap|Nmap (Network Mapper) es una herramienta de código abierto utilizada para explorar redes y llevar a cabo auditorías de seguridad. Su uso principal consiste en escanear redes para descubrir dispositivos activos, detectar puertos abiertos en esos dispositivos, identificar los servicios y versiones que se ejecutan en dichos puertos, y también en detectar el sistema operativo que utiliza cada equipo.|
+|whoami  |Mostrar el nombre del usuario actual que ha iniciado sesión en el sistema.|
+|who  |Muestra quiénes están actualmente conectados al sistema.|
+|who am i   |Muestra información sobre la sesión de usuario actual, es decir, quién inició sesión y desde dónde.|
+|w  |Muestra quiénes están conectados al sistema y qué están haciendo en ese momento.|
 ---
 ## Redes
 Los protocolos como TCP/IP facilitan la comunicación efectiva.
