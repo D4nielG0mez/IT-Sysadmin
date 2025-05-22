@@ -25,7 +25,32 @@ La realidad es que me dedico al Hacking ético, por lo que, practicaré Linux ha
 |docker stop [NAMES or IDs] |Detiene uno o más contenedores en ejecución.|
 |docker rm [NAMES or IDs] |Solo puedes eliminar contenedores que estén detenidos (para eliminar uno en ejecución, primero hay que detenerlo).|
 |nmap|Nmap (Network Mapper) es una herramienta de código abierto utilizada para explorar redes y llevar a cabo auditorías de seguridad. Su uso principal consiste en escanear redes para descubrir dispositivos activos, detectar puertos abiertos en esos dispositivos, identificar los servicios y versiones que se ejecutan en dichos puertos, y también en detectar el sistema operativo que utiliza cada equipo.|
-
+---
 ## Redes
+Los protocolos como TCP/IP facilitan la comunicación efectiva.
+### Software de Red
+Cisco IOS
+
+Juniper Junos
+
+Cumulus Linux
+
+### Herramientas de análisis
+Ofrecen insides profundos del tráfico de red:
+
+Wireshark
+
+TCPDUMP
+
+### Plataformas de monitoreo
+Permiten mantener el rendimiento y seguridad de la red.
+
+Nagios
+
+ZABBIX
+
+OpenNMS
+
+
 
 ## Firewall
